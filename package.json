@@ -1,5 +1,5 @@
 {
-  "name": "@realsoft/geni",
+  "name": "@realsoft/geni-cli",
   "version": "1.0.0",
   "description": "'git init' con esteroides",
   "main": "index.js",
@@ -8,6 +8,7 @@
   },
   "keywords": [
     "Git",
+    "Geni",
     "CLI"
   ],
   "author": "RealSoft <hnrdiaz@gmail.com>",
